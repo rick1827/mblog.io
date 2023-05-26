@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malicious News</title>
+    <link>https://malicious_news.io/</link>
+    <description>Recent content on Malicious News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 12:20:10 -1000</lastBuildDate><atom:link href="https://malicious_news.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emote What Does It Do?</title>
+      <link>https://malicious_news.io/posts/emote_what_does_it_do/</link>
+      <pubDate>Thu, 25 May 2023 12:20:10 -1000</pubDate>
+      
+      <guid>https://malicious_news.io/posts/emote_what_does_it_do/</guid>
+      <description>Emote What Does It Do? Emote was once described as the &amp;ldquo;worlds most dangerous malware&amp;rdquo;, by Europol. Security researchers first discovered the malware as a banking trojan in 2014.
+What is Emotet? </description>
+    </item>
+    
+  </channel>
+</rss>
